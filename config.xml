@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.iut.iutonline"
         versionCode = "20220"
         version   = "3.4.1">
-    <name>Moodle Mobile</name>
+    <name>IUT Online</name>
 
     <description>
-        Moodle Mobile official app
+        Official App for IUT Online Platform
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://iutoic-dhaka.edu" email="akhtar.iut@gmail.com">
+        Dr Md Aktaruzzaman
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
