@@ -5,7 +5,7 @@
         id        = "com.iut.iutonline2"
         versionCode = "20220"
         version   = "3.4.1">
-    <name>IUT Online</name>
+    <name>IUTOnline</name>
 
     <description>
         Official App for IUT Online Platform
