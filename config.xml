@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.iut.iutonline"
+        id        = "com.iut.iutonline2"
         versionCode = "20220"
         version   = "3.4.1">
     <name>IUT Online</name>
